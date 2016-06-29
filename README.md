@@ -2,7 +2,7 @@
 
 ##Summary
 
-.
+The following report seeks to analyze several simple crowd behavior models to explore how a group of people may evacuate a building under certain conditions. The simulations suggest that (1) a larger variance in reaction time can offset high mean reaction times and (2) a flow of people moving against the crowd can speed up evacuation so long as the size of their group, as a percentage of the whole group, does not exceed a certain threshold. 
 
 ##Contents
 
