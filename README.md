@@ -1,14 +1,15 @@
 # Crowd-Behavior
+## Modeling the Mechanics of Fleeing with the Individual Agent Model
 
-##Summary
+###Summary
 
 The following report seeks to analyze several simple crowd behavior models to explore how a group of people may evacuate a building under certain conditions. The simulations suggest that (1) a larger variance in reaction time can offset high mean reaction times and (2) a flow of people moving against the crowd can speed up evacuation so long as the size of their group, as a percentage of the whole group, does not exceed a certain threshold. 
 
-##Contents
+###Contents
 
 - [Report](https://github.com/geoffstevens8/Crowd-Behavior/blob/master/Report.pdf)
 
-##Code Appendix
+###Code Appendix
 
 - [re.m](https://github.com/geoffstevens8/Crowd-Behavior/blob/master/re.m) and [re_trials.m](https://github.com/geoffstevens8/Crowd-Behavior/blob/master/re_trials.m): implement the Random Escape Model
 - [are.m](https://github.com/geoffstevens8/Crowd-Behavior/blob/master/are.m) and [are_trials.m](https://github.com/geoffstevens8/Crowd-Behavior/blob/master/are_trials.m): implement the Adaptive Escape Model
