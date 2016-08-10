@@ -1,4 +1,4 @@
-# Crowd-Behavior
+# Crowd Behavior
 ## Modeling the Mechanics of Fleeing with the Individual Agent Model
 
 ###Summary
@@ -17,3 +17,6 @@ The following report seeks to analyze several simple crowd behavior models to ex
 - [sdercf.m](https://github.com/geoffstevens8/Crowd-Behavior/blob/master/sdercf.m) and [sdercf_trials.m](https://github.com/geoffstevens8/Crowd-Behavior/blob/master/sdercf_trials.m): implement the Shortest Distance Escape Model with both Random Reaction and Counter Flow Models
 - [sdercf2.m](https://github.com/geoffstevens8/Crowd-Behavior/blob/master/sdercf2.m) and [sdercf2_trials.m](https://github.com/geoffstevens8/Crowd-Behavior/blob/master/sdercf2_trials.m): implement the Shortest Distance Escape Model with both Stationary Reaction and Counter Flow Models
 - [visualize.m](https://github.com/geoffstevens8/Crowd-Behavior/blob/master/visualize.m): dependency for other models to implement a visualization
+
+### Information
+All functions are written in MATLAB (R2014b)
